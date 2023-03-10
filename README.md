@@ -10,3 +10,5 @@ You can run the script with the command:
 sshbrutty.py --user USERNAME --host IP --password-file /path/to/password/file.txt 
 
 replacing USERNAME, IP, and /path/to/password/file.txt with the appropriate values.
+
+Only use this on hosts that you have explicit permission to test against.
